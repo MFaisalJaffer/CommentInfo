@@ -6,6 +6,8 @@
 # and multiline comments are consecutive lines starting with #. Also valid comments
 # are only declared outside quotes.
 #
+# Usage: python lines.py <file_name>
+#
 
 import sys
 
